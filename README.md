@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-another repository
+First repository for Git Hub.
